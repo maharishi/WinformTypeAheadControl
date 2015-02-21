@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeAheadControl", "TypeAheadControl\TypeAheadControl.csproj", "{C02BD8E3-452A-4E7B-9193-CFC27926C2BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeAheadDemo", "TypeAheadDemo\TypeAheadDemo.csproj", "{1B5E2A58-B42E-4133-83A9-53B325955FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02BD8E3-452A-4E7B-9193-CFC27926C2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02BD8E3-452A-4E7B-9193-CFC27926C2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02BD8E3-452A-4E7B-9193-CFC27926C2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02BD8E3-452A-4E7B-9193-CFC27926C2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5E2A58-B42E-4133-83A9-53B325955FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5E2A58-B42E-4133-83A9-53B325955FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5E2A58-B42E-4133-83A9-53B325955FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5E2A58-B42E-4133-83A9-53B325955FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
